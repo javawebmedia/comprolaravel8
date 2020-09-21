@@ -2,6 +2,19 @@
  Website Company Profile dengan Laravel 8. CMS ini dikembangkan oleh Java Web Media (www.javawebmedia.com). Versi demo dapat diakses di website http://comprolaravel8.javawebmedia.com.
  Semoga bermanfaat untuk teman-teman yang sedang belajar.
  
+ # Server Requirements
+ Server Anda harus memenuhi kriteria ini:
+- PHP >= 7.3
+- BCMath PHP Extension
+- Ctype PHP Extension
+- Fileinfo PHP extension
+- JSON PHP Extension
+- Mbstring PHP Extension
+- OpenSSL PHP Extension
+- PDO PHP Extension
+- Tokenizer PHP Extension
+- XML PHP Extension
+ 
  # Cara Install di Localhost
  1. Download ZIP/RAR dari CMS ini
  2. Buat folder *comprolaravel8* di folder root Anda (misalnya *htdocs* jika menggunakan XAMPP)

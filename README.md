@@ -1,5 +1,7 @@
 # COMPROLARAVEL8
- Website Company Profile dengan Laravel 8
+ Website Company Profile dengan Laravel 8. CMS ini dikembangkan oleh Java Web Media (www.javawebmedia.com). Versi demo dapat diakses di website http://comprolaravel8.javawebmedia.com.
+ Semoga bermanfaat untuk teman-teman yang sedang belajar.
+ 
  # Cara Install di Localhost
  1. Download ZIP/RAR dari CMS ini
  2. Buat folder *comprolaravel8* di folder root Anda (misalnya *htdocs* jika menggunakan XAMPP)

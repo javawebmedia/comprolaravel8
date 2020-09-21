@@ -12,10 +12,6 @@ $bg   = DB::table('heading')->where('halaman','Kontak')->orderBy('id_heading','D
 <section class="contact-page wf100 p50">
    <div class="container contact-info">
       <div class="row">
-         <div class="col-md-12">
-            <h3>Informasi Kontak</h3>
-            <p>Apakah Anda ingin mempelajari lebih lanjut tentang penatalayanan air di Indonesia atau Anda memiliki ide untuk berkolaborasi? Kirim email ke info@awsindonesia.org</p>
-         </div>
          <!--Contact Info Start-->
          <div class="col-md-6">
             <div class="c-info">

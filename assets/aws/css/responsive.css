@@ -1,0 +1,1298 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media (min-width: 1201px) and (max-width: 1600px) {
+.header-style-1 .navbar-brand {
+	padding: 19px 20px;
+}
+.nav-item .dropdown-toggle::after {
+	display: none;
+}
+.header-style-1 .navbar-expand-lg .navbar-nav .nav-link {
+	padding: 0 12px;
+	font-size: 16px;
+}
+a.con {
+	padding: 0 20px;
+}
+.ser-txt h4 {
+	font-size: 20px;
+}
+.ser-txt span.aicon {
+	right: 10px;
+}
+ul.topnav-right {
+	display: none;
+}
+.slider-caption.h2slider {
+	top: 10%;
+}
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+.wrapper {
+	width: 100%;
+	float: left;
+	overflow: hidden;
+}
+.wrapper .container {
+	width: 100%;
+	max-width: 1140px;
+}
+.header-style-1 {
+	position: relative;
+	background: #33691e;
+}
+.topside-menu {
+	display: none;
+}
+.header-style-1 .navbar-nav {
+	width: 100%;
+}
+.header-style-1 .navbar-nav .dropdown-toggle::after {
+	display: none;
+}
+.header-style-1 .navbar-nav li.nav-item .dropdown-menu {
+	left: inherit;
+	right: 0;
+}
+.slider-caption {
+	top: 10%;
+}
+.ser-txt {
+	padding: 10px;
+}
+.ser-txt h4 {
+	font-size: 16px;
+}
+.ser-txt span.aicon {
+	display: none;
+}
+.blog-list .blog-post .blog-thumb {
+	width: 33%;
+}
+.blog-list .blog-post .blog-txt {
+	width: 67%;
+}
+.campaign-txt {
+	padding: 15px;
+}
+ul.flinks li a {
+	padding: 0 12px;
+}
+/*************  Home 2  ************/
+
+.services-area {
+	margin: 0px;
+}
+.services-area h6 {
+	font-size: 16px;
+}
+.navbar-nav .dropdown-toggle::after, ul.topnav-right {
+	display: none;
+}
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+	left: inherit;
+	right: 0;
+}
+.current-projects .nav-link {
+	padding: 0 10px;
+}
+.instagram {
+	margin: 0 0 50px;
+}
+ul.ftags li {
+	display: inline-block;
+	margin: 0 5px 8px 0;
+}
+ul.ftags a {
+	padding: 0 10px;
+}
+.newsletter input[type=text] {
+	width: 180px;
+}
+.footer-style-2 ul.lastest-products strong a {
+	font-size: 14px;
+}
+/*********** Home 3 ***********/
+
+.donation-wrap li.form-submit button {
+	padding: 0 10px;
+}
+.slider-caption.h3slider h1 {
+	font-size: 48px;
+}
+.header-contact li {
+	margin: 0 5px;
+	font-size: 14px;
+}
+.our-core-projects .h3-stitle, .h3-about img {
+	width: 100%;
+	height: auto;
+}
+.h3-aboutxt p.counter-count {
+	font-size: 30px;
+}
+.h3-aboutxt p.ctxt {
+	font-size: 14px;
+}
+.h3-events .owl-nav {
+	top: inherit;
+}
+/*******************/
+
+.about-video-img {
+	width: 100%;
+}
+.story-title-bg {
+	padding: 35px;
+}
+.story-title-bg:after {
+	width: 95%;
+	height: 95%;
+}
+.side-widget.archives, .project-list-widget {
+	padding: 10px;
+}
+.event-list-box .event-txt {
+	width: 50%;
+}
+.sdb-right, .single-donation-box .sdb-left {
+	width: 100%;
+	padding: 10px 0 0;
+}
+.pro-list-box .pro-txt {
+	padding: 0px 0 0 30px;
+}
+.pro-list-box .pro-txt h3 {
+	font-size: 24px;
+}
+.filter-gallery .isotope .item, .filter-gallery .isotope .item.height2 {
+	height: auto;
+}
+.portfolio.filter-gallery {
+	padding: 0 15px;
+}
+.gallery-img {
+	margin: 0px;
+}
+.filter-gallery .isotope .item.width2 {
+	width: 66%;
+}
+.cs-txt {
+	width: 100%;
+	padding: 30px 0 0;
+}
+.cs-newsletter-form, .cs-txt .countdown.is-countdown, .cs-txt .countdown-section {
+	margin-bottom: 30px;
+}
+.cs-txt .countdown-section {
+	width: 100px;
+	height: 100px;
+	border: 3px solid #66bb6a;
+	padding: 25px 0 0;
+}
+.cs-txt .countdown-amount {
+	font-size: 24px;
+	line-height: 30px;
+}
+.cs-txt .countdown-period {
+	font-size: 14px;
+}
+.cs-newsletter-form button.subscribe {
+	font-size: 14px;
+	padding: 0 10px;
+}
+.cs-newsletter-form {
+	width: 100%;
+}
+}
+ @media (min-width: 768px) and (max-width: 991px) {
+.wrapper {
+	width: 100%;
+	float: left;
+	overflow: hidden;
+}
+ul.topnav-right {
+	display: none;
+}
+.wrapper .container {
+	width: 100%;
+	max-width: 100%;
+}
+.header-style-1 {
+	position: relative;
+	background: #33691e;
+}
+.header-style-1 .navbar-toggler {
+	color: #fff;
+	font-size: 25px;
+	border: 1px solid #33691e;
+	margin: 0 20px 0 0;
+	padding: 8px 15px;
+	background: #66bb6a;
+}
+.header-style-1 .navbar-nav {
+	width: 100%;
+	margin: 0 0 30px 30px;
+}
+.header-style-1 .navbar-expand-lg .navbar-nav .nav-link {
+	padding: 10px 0;
+}
+.pic1, .topside-menu {
+	display: none;
+}
+.slider-caption {
+	top: 50px;
+}
+.slider-caption strong {
+	font-size: 22px;
+	margin: 0px;
+}
+.slider-caption h1 {
+	font-size: 28px;
+	margin-bottom: 10px;
+	line-height: 40px;
+}
+.slider-caption p {
+	font-size: 16px;
+	width: 100%;
+}
+ul.participants li strong, .ser-txt span.aicon, .slider-caption a {
+	display: none;
+}
+.home-services {
+	padding: 15px;
+}
+.ser-col {
+	width: 33%;
+}
+.volunteer-form, .ser-txt {
+	padding: 20px;
+}
+.ser-txt h4 {
+	font-size: 20px;
+}
+.blog-list .blog-post .blog-thumb {
+	width: 33%;
+}
+.blog-list .blog-post .blog-txt {
+	width: 67%;
+}
+.campaign-txt {
+	padding: 10px;
+}
+ul.funds li strong {
+	font-size: 14px;
+}
+.pro-title {
+	padding: 40px;
+	margin-bottom: 30px;
+}
+.pro-title h3 {
+	font-size: 26px;
+}
+p.counter-count {
+	font-size: 34px;
+}
+p.ctxt {
+	font-size: 12px;
+}
+ul.flinks {
+	margin: 0 0 30px;
+}
+/*************  Home 2  ************/
+
+.services-area {
+	margin: 0px;
+}
+.services-area h6 {
+	font-size: 16px;
+}
+.p80, .p100 {
+	padding: 60px 0;
+}
+a.view-more {
+	display: none;
+}
+.urgent-causes .funds li strong {
+	font-size: 18px;
+}
+.instagram, .current-projects .nav {
+	margin: 0 0 30px;
+}
+.blog-small-post .post-thumb {
+	width: 100%;
+}
+.blog-small-post .post-txt {
+	width: 100%;
+	padding: 20px 0 0;
+}
+.why-ecova .counter p.counter-count {
+	font-size: 26px;
+}
+.footer-widget.about-ecova, .footer-style-2 {
+	margin: 0px;
+}
+.footer-newsletter.wf100 {
+	padding: 0 15px;
+}
+/************* Home 3 ************/
+
+.header-contact li {
+	margin: 0 5px;
+	font-size: 14px;
+	line-height: 44px;
+}
+a.con-btn {
+	line-height: 44px;
+	padding: 0 10px;
+	font-size: 14px;
+}
+form.search-form {
+	margin: 6px 5px 0 0;
+	width: 64%;
+}
+.navrow {
+	border: 0px;
+}
+.header-style-3 .navbar-toggler {
+	width: 100%;
+	border: 0px;
+	margin: 10px 0;
+	border-radius: 0px;
+}
+.donation-wrap .radio-boxes .radio.custom {
+	margin-bottom: 10px;
+}
+.donation-wrap ul.funds li strong {
+	font-size: 20px;
+}
+.donation-wrap {
+	padding: 30px 15px;
+}
+.volbox {
+	padding: 40px 0;
+}
+.h3-about img {
+	width: 100%;
+	height: auto;
+}
+.h3-aboutxt {
+	margin: 0px;
+	padding: 0px;
+}
+.h3-aboutxt p.counter-count {
+	font-size: 20px;
+}
+.h3-aboutxt p.ctxt {
+	font-size: 14px;
+}
+.our-core-projects .h3-stitle {
+	width: 100%;
+}
+.news-txt h4 {
+	font-size: 22px;
+}
+ul.news-meta li {
+	font-size: 12px;
+}
+body h1 {
+	font-size: 28px;
+}
+body h2 {
+	font-size: 26px;
+}
+body h3 {
+	font-size: 24px;
+}
+body h4 {
+	font-size: 22px;
+}
+body h5 {
+	font-size: 20px;
+}
+body h6 {
+	font-size: 18px;
+}
+.h3-events .owl-nav {
+	top: inherit;
+}
+.h3footer ul.lastest-products strong {
+	font-size: 14px;
+}
+.h3footer .footer-social a {
+	margin-bottom: 5px;
+}
+/************  About Page ***********/
+
+.story-title-bg, .about-text {
+	margin: 0 0 30px;
+}
+.story-title-bg {
+	text-align: center;
+}
+.event-list .pro-list-box .pro-txt {
+	padding: 0 0 0 15px;
+}
+.event-list ul.event-meta li {
+	font-size: 12px;
+}
+.side-widget .lastest-products strong a {
+	font-size: 13px;
+}
+.event-list-box ul.event-meta, .event-list-two .event-list-box .event-thumb {
+	width: 50%;
+}
+.event-list-box .event-txt {
+	width: 100%;
+}
+.side-widget.archives, .project-list-widget {
+	padding: 10px;
+}
+.single-counter-box {
+	width: 100%;
+	padding: 15px;
+	text-align: center;
+}
+.single-counter-box .col1, .single-counter-box .col2, .single-counter-box .col3 {
+	width: 100%;
+	padding: 10px 0;
+}
+.team-box .team-info {
+	padding: 10px;
+}
+.chief-guest.team-grid .team-box h3 {
+	font-size: 16px;
+}
+.causes-listing .campaign-txt h4 {
+	font-size: 20px;
+}
+.causes-listing .campaign-txt {
+	padding: 0 15px 15px;
+}
+.sdb-right, .single-donation-box .sdb-left {
+	width: 100%;
+	padding: 10px 0 0;
+}
+.comment-form li.w3, .related-posts>ul>li {
+	width: 100%;
+	padding: 0px;
+	margin: 0 0 10px;
+}
+ul.comment-time {
+	position: inherit;
+}
+ul.comment-time li {
+	margin: 0px;
+}
+ul.cform li.half {
+	width: 100%;
+	padding: 0px;
+	margin: 0 0 10px;
+}
+.c-info {
+	padding: 15px;
+}
+.pro-list-box .pro-txt {
+	padding: 0px 0 0 30px;
+}
+.pro-list-box .pro-txt h3 {
+	font-size: 24px;
+}
+.filter-gallery .isotope .item.width2, .filter-gallery .isotope .item.height2, .filter-gallery .isotope .item {
+	width: 100%;
+	padding: 0px;
+	height: auto;
+}
+.portfolio.filter-gallery {
+	padding: 0 15px;
+}
+.gallery-img {
+	margin: 0px;
+}
+.myaccount-form {
+	margin-bottom: 30px;
+}
+.cs-txt {
+	width: 100%;
+	padding: 30px 0 0;
+}
+.cs-newsletter-form, .cs-txt .countdown.is-countdown, .cs-txt .countdown-section {
+	margin-bottom: 30px;
+}
+.cs-txt .countdown-section {
+	width: 100px;
+	height: 100px;
+	border: 3px solid #66bb6a;
+	padding: 25px 0 0;
+}
+.cs-txt .countdown-amount {
+	font-size: 24px;
+	line-height: 30px;
+}
+.cs-txt .countdown-period {
+	font-size: 14px;
+}
+.cs-newsletter-form button.subscribe {
+	font-size: 14px;
+	padding: 0 10px;
+}
+.cs-newsletter-form {
+	width: 100%;
+}
+section.page404.wf100.p80 img {
+	max-width: 100%;
+	height: auto;
+	margin-bottom: 30px;
+}
+.page-404-txt strong.title-404 {
+	font-size: 150px;
+	line-height: 200px;
+}
+.slider-caption {
+	text-align: center;
+}
+.slider-caption.h2slider strong {
+	font-size: 30px;
+	margin: 0 0 10px;
+}
+.slider-caption.h2slider h1 {
+	font-size: 40px;
+	line-height: 40px;
+	margin: 0 0 10px;
+}
+
+.home-facts.counter .counter-box p.ctxt {font-size:14px;}
+
+}
+ @media (min-width: 576px) and (max-width: 767px) {
+.wrapper {
+	width: 100%;
+	float: left;
+	overflow: hidden;
+}
+.wrapper .container {
+	width: 100%;
+	max-width: 100%;
+}
+#home-slider img {
+	width: 100%;
+	height: auto;
+}
+.header-style-1 {
+	position: relative;
+	background: #33691e;
+}
+.slider-caption {
+	top: 50px;
+}
+.slider-caption strong {
+	font-size: 22px;
+}
+.slider-caption h1 {
+	font-size: 28px;
+	margin-bottom: 10px;
+}
+.slider-caption p {
+	font-size: 16px;
+	width: 100%;
+}
+.about-pic, .slider-caption a {
+	display: none;
+}
+.home-services {
+	padding: 15px;
+}
+.ser-col {
+	width: 50%;
+}
+.ser-txt {
+	padding: 20px;
+}
+.blog-list .blog-post .blog-thumb {
+	width: 33%;
+}
+.blog-list .blog-post .blog-txt {
+	width: 67%;
+}
+.counter, ul.flinks, .campaign-box {
+	margin-bottom: 30px;
+}
+.pro-title {
+	margin-bottom: 0px;
+}
+.header-style-1 .navbar-toggler {
+	color: #fff;
+	font-size: 25px;
+	border: 1px solid #33691e;
+	margin: 0 20px 0 0;
+	padding: 8px 15px;
+	background: #66bb6a;
+}
+.header-style-1 .navbar-nav {
+	width: 100%;
+	margin: 0 0 30px 30px;
+}
+.header-style-1 .navbar-expand-lg .navbar-nav .nav-link {
+	padding: 10px 0;
+}
+.topside-menu {
+	display: none;
+}
+/************  Home 2  ************/
+
+.services-area {
+	margin: 0px;
+}
+.services-area h6 {
+	font-size: 16px;
+}
+.p80, .p100 {
+	padding: 60px 0;
+}
+a.view-more {
+	display: none;
+}
+.footer-newsletter .newsletter, .cus, .product-box, .current-projects .nav, .instagram, .blog-post-large, .urgent-causes .funds, .video-img {
+	margin-bottom: 30px;
+	overflow: hidden;
+}
+.donation-amount {
+	width: 100%;
+}
+.footer-widget.about-ecova {
+	margin: 0 0 30px;
+}
+.footer-newsletter.wf100 {
+	padding: 0 15px;
+}
+.newsletter input[type=text] {
+	width: 180px;
+}
+.footer-style-2 {
+	margin: 0px;
+}
+/*************  Home 3 **************/
+.header-style-3 .topbar-social {
+	display: none;
+}
+.navrow {
+	border: 0px;
+}
+.header-style-3 .navbar-toggler {
+	width: 100%;
+	border: 0px;
+	margin: 10px 0;
+	border-radius: 0px;
+}
+.navrow .navbar-nav .nav-item, .navrow {
+	border: 0px;
+}
+.slider-caption.h3slider strong {
+	font-size: 28px;
+	margin: 0px;
+}
+.h3-aboutxt {
+	padding: 0;
+	margin-bottom: 30px;
+}
+.our-core-projects .h3-stitle, .h3teams-section .h3-stitle, section.h3-about.wf100.p80 img {
+	width: 100%;
+	height: auto;
+}
+/************  Inner Pages ***********/
+.story-title-bg {
+	text-align: center;
+}
+.story-title-bg, .about-text {
+	margin: 0 0 30px;
+}
+.event-grid .event-post .event-txt {
+	padding: 15px;
+}
+.event-post .event-txt h5 {
+	font-size: 20px;
+}
+.event-grid .event-post .event-txt p, .event-grid .event-post .event-txt ul.post-meta li {
+	font-size: 12px;
+}
+.event-list .pro-list-box .pro-txt {
+	padding: 0 0 0 30px;
+}
+.event-list-box ul.event-meta, .event-list-two .event-list-box .event-thumb {
+	width: 50%;
+}
+.event-list-box .event-txt {
+	width: 100%;
+}
+.single-counter-box {
+	width: 100%;
+	padding: 15px;
+	text-align: center;
+}
+.single-counter-box .col1, .single-counter-box .col2, .single-counter-box .col3 {
+	width: 100%;
+	padding: 10px 0;
+}
+.wf100.comment-form {
+	margin-bottom: 30px;
+}
+.campaign-txt {
+	padding: 15px;
+}
+.causes-grid .campaign-txt h5 {
+	font-size: 20px;
+}
+.sdb-right, .single-donation-box .sdb-left {
+	width: 100%;
+	padding: 10px 0 0;
+}
+.c-info, .contact-form {
+	margin-bottom: 30px;
+}
+.pro-list-box .pro-txt {
+	padding: 0px 0 0 30px;
+}
+.pro-list-box .pro-txt h3 {
+	font-size: 24px;
+}
+.filter-gallery .isotope .item.width2, .filter-gallery .isotope .item.height2, .filter-gallery .isotope .item {
+	width: 100%;
+	padding: 0px;
+	height: auto;
+}
+.portfolio.filter-gallery {
+	padding: 0 15px;
+}
+.gallery-img {
+	margin: 0px;
+}
+.donations .radio-boxes li {
+	margin: 0 0 5px;
+}
+.payment-method li.half {
+	width: 100%;
+}
+.donator-details li.half, .payment-method li.half.pl15 {
+	width: 100%;
+	padding: 10px 0 0;
+}
+.myaccount-form {
+	margin-bottom: 30px;
+}
+.cs-txt {
+	width: 100%;
+	padding: 30px 0 0;
+}
+.cs-newsletter-form, .cs-txt .countdown.is-countdown, .cs-txt .countdown-section {
+	margin-bottom: 30px;
+}
+.cs-txt .countdown-section {
+	width: 100px;
+	height: 100px;
+	border: 3px solid #66bb6a;
+	padding: 25px 0 0;
+}
+.cs-txt .countdown-amount {
+	font-size: 24px;
+	line-height: 30px;
+}
+.cs-txt .countdown-period {
+	font-size: 14px;
+}
+.cs-newsletter-form button.subscribe {
+	font-size: 14px;
+	padding: 0 10px;
+}
+.cs-newsletter-form {
+	width: 100%;
+}
+section.page404.wf100.p80 img {
+	max-width: 100%;
+	height: auto;
+	margin-bottom: 30px;
+}
+.slider-caption {
+	text-align: center;
+}
+.slider-caption.h2slider strong {
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+.slider-caption.h2slider h1 {
+	font-size: 28px;
+	line-height: 30px;
+	margin: 0 0 10px;
+}
+.slider-caption p, .slider-caption.h2slider p {
+	display: none;
+}
+.counter-box {
+	margin-bottom: 30px;
+}
+}
+ @media (min-width: 280px) and (max-width: 575px) {
+.wrapper {
+	width: 100%;
+	float: left;
+	overflow: hidden;
+}
+.counter-box {
+	margin-bottom: 30px;
+}
+.wrapper .container {
+	width: 100%;
+	max-width: 100%;
+}
+.header-style-1 {
+	position: relative;
+	background: #33691e;
+}
+.header-style-1 .navbar-brand {
+	padding: 20px;
+	border: 0px;
+	text-align: center;
+	margin: 0px;
+}
+.header-style-1 .navbar-nav, header .navbar-nav {
+	width: 100%;
+	margin: 0 0 30px 30px;
+}
+.header-style-1 .navbar-expand-lg .navbar-nav .nav-link {
+	padding: 10px 0;
+}
+section#home-slider img {
+	width: 100%;
+	height: auto;
+}
+ul.topnav-right, .topside-menu {
+	display: none;
+}
+.slider-caption {
+	top: 30px;
+}
+.slider-caption strong {
+	font-size: 16px;
+}
+.slider-caption h1 {
+	font-size: 22px;
+}
+.about-pic, .slider-caption a, .slider-caption p {
+	display: none;
+}
+.blog-list .blog-post .blog-thumb, .about-txt ul li {
+	width: 100%;
+}
+.home-services {
+	padding: 15px;
+}
+.ser-col {
+	width: 100%;
+}
+.ser-txt h4 {
+	font-size: 20px;
+}
+.blog-list .blog-post .blog-txt {
+	width: 100%;
+	padding: 20px 0 0;
+}
+.event-post .event-txt {
+	padding: 20px;
+}
+.campaign-box {
+	margin: 0 0 30px;
+}
+.pro-title {
+	padding: 30px 0 40px 30px;
+	margin: 0px;
+}
+.pro-title h3 {
+	color: #fff;
+	font-weight: 400;
+	font-size: 20px;
+}
+.counter {
+	margin: 20px 0;
+}
+.counter li {
+	width: 100%;
+	margin-bottom: 20px;
+}
+section.promises.wf100.p80 {
+	padding: 40px 0;
+}
+.volunteer-form {
+	padding: 20px;
+}
+ul.flinks li a {
+	padding: 0 10px;
+	margin: 0 0 5px;
+}
+.ser-txt span.aicon {
+	top: 30px;
+}
+.news-posts .blog-list.wf100 {
+	margin-bottom: 40px;
+}
+/***********  Home 2  *********/
+
+body h1 {
+	font-size: 36px;
+}
+body h2 {
+	font-size: 28px;
+}
+body h3 {
+	font-size: 24px;
+}
+body h4 {
+	font-size: 22px;
+}
+body h5 {
+	font-size: 20px;
+}
+body h6 {
+	font-size: 16px;
+}
+.services-area {
+	margin: 0px;
+}
+section.services-area ul li {
+	width: 100%;
+}
+.slider-caption.h2slider strong {
+	font-size: 20px;
+}
+.p100 {
+	padding: 60px 0;
+}
+.video-img img {
+	margin-bottom: 30px;
+}
+.urgent-causes .funds li strong {
+	font-size: 18px;
+}
+.donation-amount {
+	width: 100%;
+	padding: 10px;
+}
+.donation-amount {
+	margin: 30px 0 0;
+}
+.radio-boxes input[type=radio].css-radio+label.css-label {
+	width: 75px;
+}
+.blog-post-large, .current-projects .nav {
+	text-align: left;
+	margin: 0 0 30px;
+}
+.current-projects .nav li {
+	margin: 3px;
+}
+a.view-more {
+	display: none;
+}
+.blog-small-post .post-txt, .blog-small-post .post-thumb {
+	width: 100%;
+	padding: 10px;
+}
+.why-ecova .counter p.counter-count {
+	font-size: 30px;
+}
+.why-ecova .counter p.ctxt {
+	font-size: 14px;
+}
+.footer-newsletter .newsletter, .product-box {
+	margin-bottom: 30px;
+}
+.instagram ul li {
+	width: 25%;
+}
+header.header-style-2 .navbar-brand, .footer-style-2 {
+	margin: 0px;
+}
+.footer-widget.about-ecova, .instagram {
+	margin: 0 0 30px;
+}
+.footer-social, .footer-newsletter .newsletter {
+	width: 100%;
+	float: left;
+	padding: 0 15px;
+}
+.newsletter ul li {
+	width: 100%;
+	margin: 0 0 10px;
+}
+.newsletter input[type=text] {
+	width: 100%;
+}
+.footer-social a {
+	width: 40px;
+	height: 40px;
+	line-height: 38px;
+	font-size: 14px;
+}
+.header-style-2 .navbar-expand-lg .navbar-nav .nav-link:hover, .header-style-2 .navbar-expand-lg .navbar-nav .nav-link {
+	border: 0px;
+}
+/**************  Home 3  *************/
+
+.slider-caption.h3slider, .h3-logo-row form.search-form, .h3-logo-row a.con-btn, ul.topbar-social, .header-contact {
+	display: none;
+}
+.header-style-3 .navbar-toggler {
+	width: 100%;
+	border: 0px;
+	margin: 10px 0;
+	border-radius: 0px;
+}
+.navrow .navbar-nav .nav-item, .navrow {
+	border: 0px;
+}
+.logo {
+	text-align: center;
+}
+.donation-wrap {
+	padding: 20px 0;
+	border: 0px;
+}
+.donation-wrap ul.funds li strong {
+	font-size: 16px;
+}
+.donation-wrap li.form-submit {
+	margin: 10px 0 0;
+}
+.volbox {
+	padding: 20px;
+	border: 0px;
+	text-align: center;
+}
+.h3teams-section .h3-stitle, .our-core-projects .h3-stitle, .volbox a:after {
+	width: 100%;
+}
+.h3-aboutxt {
+	padding: 0px;
+}
+.h3-about img {
+	width: 100%;
+	height: auto;
+}
+.news-block, .team-box, .news-thumb {
+	margin-bottom: 10px;
+}
+.h3footer .footer-social a {
+	width: 36px;
+	height: 36px;
+	line-height: 34px;
+}
+.footer-copyr p, .footer-copyr {
+	text-align: center;
+}
+header.header-style-2 .navbar-brand {
+	width: 240px;
+}
+.header-style-2 .navbar-expand-lg .navbar-nav .nav-link {
+	padding: 15px 0;
+}
+.about-video-section {
+	padding: 40px 0 80px;
+}
+.about-video-img {
+	width: 100%;
+}
+.about-video-img:after {
+	display: none;
+}
+.story-title-bg {
+	padding: 35px;
+}
+.story-title-bg strong.t2, .story-title-bg strong.t3, .story-title-bg strong.t1 {
+	font-size: 38px;
+}
+.story-title-bg {
+	margin-bottom: 30px;
+}
+.choose-ecova .col-6, .eco-history .col-4 {
+	width: 100%;
+	max-width: 100%;
+	flex: inherit;
+	margin-bottom: 30px;
+}
+/***********************/
+
+.event-grid-2 .event-post .event-txt {
+	padding: 20px 10px 0;
+}
+.event-list-two .event-list-box .event-thumb, .pro-list-box .pro-thumb {
+	width: 100%;
+}
+.event-list .pro-list-box .pro-txt {
+	width: 100%;
+	padding: 30px 0 0 0;
+}
+.event-list-box .event-txt, .event-list-box ul.event-meta {
+	width: 100%;
+	border: 0px;
+}
+.single-counter-box {
+	width: 100%;
+	padding: 15px;
+	text-align: center;
+}
+.small-gallery li, .single-counter-box .col1, .single-counter-box .col2, .single-counter-box .col3 {
+	width: 100%;
+	padding: 10px 0;
+}
+.single-counter-box .countdown-amount {
+	font-size: 20px;
+}
+.single-counter-box .countdown-period {
+	font-size: 12px;
+}
+.blog-single-content blockquote {
+	width: 100%;
+}
+.blog-single-content blockquote p {
+	font-size: 18px;
+	line-height: 26px;
+	padding: 20px;
+}
+.blog-single-content blockquote:after {
+	display: none;
+}
+.event-gallery.gallery li {
+	width: 50%;
+}
+.comment-form li.w3, .related-posts>ul>li {
+	width: 100%;
+	padding: 0;
+}
+.contact-form, .c-info, .wf100.comment-form {
+	margin-bottom: 30px;
+}
+.campaign-txt {
+	padding: 15px;
+}
+.causes-listing .campaign-txt, .causes-listing .campaign-thumb {
+	width: 100%;
+}
+ul.funds li strong {
+	font-size: 14px;
+}
+.pro-list-box .pro-txt, .sdb-right, .single-donation-box .sdb-left {
+	width: 100%;
+	padding: 10px 0 0;
+}
+.single-donation-box .radio-boxes li {
+	margin-bottom: 5px;
+}
+.author-box img {
+	float: none;
+	margin: 0 0 10px;
+}
+ul.comments .comment {
+	padding: 0px;
+}
+.comments .comment .user-thumb, ul.comment-time {
+	position: inherit;
+	padding: 10px 0;
+}
+ul.comment-time li {
+	margin: 0px;
+}
+ul.cform li.half {
+	width: 100%;
+	padding: 0px;
+}
+.contact-map-info {
+	width: 100%;
+	position: inherit;
+	right: inherit;
+	padding: 0px;
+	margin: 0 0 30px;
+	float: left;
+}
+.myaccount-form, .pro-large {
+	margin-bottom: 30px;
+}
+.add-2-cart input[type="submit"] {
+	padding: 0 10px;
+	font-size: 14px;
+}
+.products-tabs .nav-tabs .nav-link {
+	font-size: 16px;
+	padding: 0 20px;
+}
+.filter-gallery .isotope .item.width2, .filter-gallery .isotope .item.height2, .filter-gallery .isotope .item {
+	width: 100%;
+	padding: 0px;
+	height: auto;
+}
+.portfolio.filter-gallery {
+	padding: 0 15px;
+}
+.gallery-img {
+	margin: 0px;
+}
+.donations .radio-boxes li {
+	margin: 0 0 5px;
+}
+.payment-method li.half {
+	width: 100%;
+}
+.donator-details li.half, .payment-method li.half.pl15 {
+	width: 100%;
+	padding: 10px 0 0;
+}
+.cs-txt {
+	width: 100%;
+	padding: 30px 0 0;
+}
+.cs-newsletter-form, .cs-txt .countdown.is-countdown, .cs-txt .countdown-section {
+	margin-bottom: 30px;
+}
+.cs-txt .countdown-section {
+	width: 100px;
+	height: 100px;
+	border: 3px solid #66bb6a;
+	padding: 25px 0 0;
+}
+.cs-txt .countdown-amount {
+	font-size: 24px;
+	line-height: 30px;
+}
+.cs-txt .countdown-period {
+	font-size: 14px;
+}
+.cs-newsletter-form button.subscribe {
+	font-size: 14px;
+	padding: 0 10px;
+}
+.cs-newsletter-form {
+	width: 100%;
+}
+section.page404.wf100.p80 img {
+	max-width: 100%;
+	height: auto;
+	margin-bottom: 30px;
+}
+.page-404-txt strong.title-404 {
+	font-size: 130px;
+	line-height: 200px;
+}
+.slider-caption {
+	display: none;
+}
+.counter-box {
+	margin: 0 0 30px;
+}
+
+.home-facts.counter  .col-lg-3.col-sm-6.col-md-3 {
+    width: 50%;
+}
+
+.home-facts.counter p.counter-count {font-size:32px;}
+
+.home-facts.counter .counter-box p.ctxt {font-size:14px;}
+
+}

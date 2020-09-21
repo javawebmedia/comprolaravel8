@@ -1,0 +1,19 @@
+/* login */
+body.login-page {
+	background-color: #2389da !important;
+}
+.login-box {
+	min-width: 40% !important;
+}
+.login-card-body {
+	border-radius: 10px;
+}
+.link-bawah {
+	font-size: 1em;
+}
+.link-bawah a {
+	color: #666;
+}
+.link-bawah a:hover {
+	color: black;
+}

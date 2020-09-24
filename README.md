@@ -23,6 +23,7 @@
  4. Copy isi file tersebut ke folder *comprolaravel8* tersebut
  5. Buat database *comprolaravel8* di MySQL/PHPMyAdmin Anda
  6. Import database *comprolaravel8.sql* yang ada di folder *db*
+ 7. Extract file *vendor.zip* di dalam folder *comprolaravel7* tersebut
  
  # Cara mengakses
  1. Buka browser
@@ -36,7 +37,7 @@
 # Cara install Online di Server:
 Berikut cara install online di CPANEL:
 1. Download ZIP/RAR dari CMS ini
-2. Upload file ZIP tadi ke server Anda, lalu extract
+2. Upload file ZIP tadi ke server Anda, lalu extract. Extract juga file *vendor.zip* ke folder utama tersebut
 3. Buat database di server Anda
 4. Import database comprolaravel8.sql yang ada di folder db
 

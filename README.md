@@ -25,15 +25,6 @@
  6. Import database *comprolaravel8.sql* yang ada di folder *db*
  7. Extract file *vendor.zip* di dalam folder *comprolaravel7* tersebut
  
- # Cara mengakses
- 1. Buka browser
- 2. Ketik alamat http://localhost/comprolaravel8
- 
- # Halaman Administrator
- - Buka alamat: http://localhost/comprolaravel8/login
- - Username: javawebmedia
- - Password: javawebmedia
- 
 # Cara install Online di Server:
 Berikut cara install online di CPANEL:
 1. Download ZIP/RAR dari CMS ini
@@ -49,3 +40,12 @@ Selanjutnya lakukan konfigurasi file *.env* Anda sesuai dengan data website dan 
 4. Setting DB_USERNAME=usernamedatabase
 5. Setting DB_PASSWORD=passworddatabase
 6. Simpan kembali file .env
+
+# Cara mengakses
+ 1. Buka browser
+ 2. Ketik alamat http://localhost/comprolaravel8
+ 
+ # Halaman Administrator
+ - Buka alamat: http://localhost/comprolaravel8/login
+ - Username: javawebmedia
+ - Password: javawebmedia

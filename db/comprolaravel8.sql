@@ -476,14 +476,14 @@ CREATE TABLE `staff` (
 --
 
 INSERT INTO `staff` (`id_staff`, `id_user`, `id_kategori_staff`, `slug_staff`, `nama_staff`, `jabatan`, `pendidikan`, `expertise`, `email`, `telepon`, `isi`, `gambar`, `status_staff`, `keywords`, `urutan`, `tanggal`) VALUES
-(1, 4, 4, 'basja-jantowski-program-director', 'Basja Jantowski', 'Program Director', NULL, NULL, NULL, NULL, NULL, 'board-and-team-01-1599999423.png', 'Ya', NULL, 1, '2020-09-13 12:17:03'),
-(2, 4, 4, 'gracia-plenita-agnindhira-knowledge-and-learning-officer', 'Gracia Plenita Agnindhira', 'Knowledge and Learning Officer', NULL, NULL, NULL, NULL, NULL, 'board-and-team-05-1599999506.png', 'Ya', NULL, 2, '2020-09-13 12:18:27'),
-(3, 4, 4, 'uli-fitri-handayani-communication-and-project-officer', 'Uli Fitri Handayani', 'Communication and Project Officer', NULL, NULL, NULL, NULL, NULL, 'board-and-team-09-1599999886.png', 'Ya', NULL, 3, '2020-09-13 12:25:05'),
-(4, 4, 6, 'heru-hendrayana-ketua-dewan-pembina', 'Heru Hendrayana', 'Ketua Dewan Pembina', NULL, NULL, NULL, NULL, NULL, 'board-and-team-07-1599999946.png', 'Ya', NULL, 0, '2020-09-13 12:25:47'),
-(5, 4, 6, 'gita-syahrani-ketua-dewan-pengawas', 'Gita Syahrani', 'Ketua Dewan Pengawas', NULL, NULL, NULL, NULL, NULL, 'board-and-team-04-1599999987.png', 'Ya', NULL, 2, '2020-09-13 12:26:28'),
-(6, 4, 6, 'fany-wedhahuditama-ketua-dewan-pengurus', 'Fany Wedhahuditama', 'Ketua Dewan Pengurus', NULL, NULL, NULL, NULL, NULL, 'board-and-team-06-1600000085.png', 'Ya', NULL, 3, '2020-09-13 12:28:14'),
-(7, 4, 6, 'fainta-susilo-negoro-sekretaris-dewan-pengurus', 'Fainta Susilo Negoro', 'Sekretaris Dewan Pengurus', NULL, NULL, NULL, NULL, NULL, 'board-and-team-03-1600000132.png', 'Ya', NULL, 4, '2020-09-13 12:29:04'),
-(8, 4, 6, 'chrisandini-bendahara-dewan-pengurus', 'Chrisandini', 'Bendahara Dewan Pengurus', NULL, NULL, NULL, NULL, NULL, 'board-and-team-02-1600000191.png', 'Ya', NULL, 5, '2020-09-13 12:30:13');
+(1, 4, 4, 'basja-jantowski-program-director', 'Bina Rika', 'Program Director', NULL, NULL, NULL, NULL, NULL, 'board-and-team-01-1599999423.png', 'Ya', NULL, 1, '2020-09-13 12:17:03'),
+(2, 4, 4, 'gracia-plenita-agnindhira-knowledge-and-learning-officer', 'Karyani', 'Knowledge and Learning Officer', NULL, NULL, NULL, NULL, NULL, 'board-and-team-05-1599999506.png', 'Ya', NULL, 2, '2020-09-13 12:18:27'),
+(3, 4, 4, 'uli-fitri-handayani-communication-and-project-officer', 'Ulindi', 'Communication and Project Officer', NULL, NULL, NULL, NULL, NULL, 'board-and-team-09-1599999886.png', 'Ya', NULL, 3, '2020-09-13 12:25:05'),
+(4, 4, 6, 'heru-hendrayana-ketua-dewan-pembina', 'Uda', 'Ketua Dewan Pembina', NULL, NULL, NULL, NULL, NULL, 'board-and-team-07-1599999946.png', 'Ya', NULL, 0, '2020-09-13 12:25:47'),
+(5, 4, 6, 'gita-syahrani-ketua-dewan-pengawas', 'Diana Widya', 'Ketua Dewan Pengawas', NULL, NULL, NULL, NULL, NULL, 'board-and-team-04-1599999987.png', 'Ya', NULL, 2, '2020-09-13 12:26:28'),
+(6, 4, 6, 'fany-wedhahuditama-ketua-dewan-pengurus', 'Andoyo', 'Ketua Dewan Pengurus', NULL, NULL, NULL, NULL, NULL, 'board-and-team-06-1600000085.png', 'Ya', NULL, 3, '2020-09-13 12:28:14'),
+(7, 4, 6, 'fainta-susilo-negoro-sekretaris-dewan-pengurus', 'Muhammad Soleh', 'Sekretaris Dewan Pengurus', NULL, NULL, NULL, NULL, NULL, 'board-and-team-03-1600000132.png', 'Ya', NULL, 4, '2020-09-13 12:29:04'),
+(8, 4, 6, 'chrisandini-bendahara-dewan-pengurus', 'Dani Widya', 'Bendahara Dewan Pengurus', NULL, NULL, NULL, NULL, NULL, 'board-and-team-02-1600000191.png', 'Ya', NULL, 5, '2020-09-13 12:30:13');
 
 -- --------------------------------------------------------
 
